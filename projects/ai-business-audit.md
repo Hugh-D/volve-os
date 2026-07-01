@@ -10,7 +10,7 @@ Phases 1-3 complete in software. Phase 3 (voice flow via Retell) blocked pending
 
 ## The Goal
 
-A self-qualifying lead generation engine. The $299 price filters for serious buyers before Hugh invests time in a callback. Report delivery builds trust and pre-sells capability. The callback closes the next step.
+A self-qualifying lead generation engine. The $297 price filters for serious buyers before Hugh invests time in a callback. Report delivery builds trust and pre-sells capability. The callback closes the next step.
 
 ## Target Customer or Audience
 
@@ -18,7 +18,7 @@ Electrical trades businesses in Australia — first niche. Owners who are curiou
 
 ## Offer Ladder
 
-1. AI Readiness Assessment — $299
+1. AI Readiness Assessment — $297
 2. Implementation Sprint — TBD
 3. Monthly Retainer (automations, agents, advisory) — TBD
 
@@ -36,7 +36,7 @@ Electrical trades businesses in Australia — first niche. Owners who are curiou
 
 ## Active Priorities
 
-1. Finalise inbound number setup (SIPCity / 1300 AI HELP)
+1. Finalise inbound number setup (SIPCity / 1300 AI GROW — 1300 244 769)
 2. Deploy public webhook for Retell integration
 3. Design the 8-12 diagnostic questions for electrical trades
 
