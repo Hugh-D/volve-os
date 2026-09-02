@@ -1,0 +1,62 @@
+{
+  "brand": {
+    "name": "Volve Solutions",
+    "country": "Australia"
+  },
+  "logo": {
+    "name": "Volve Forward Mark",
+    "version": "1.0",
+    "type": "standalone_symbol",
+    "wordmarkIncluded": false,
+    "description": "A bold V paired with a narrower forward continuation stroke.",
+    "construction": {
+      "elements": 2,
+      "primaryV": {
+        "weight": "heavy",
+        "leftTop": "straight horizontal cap with crisp corners",
+        "rightTop": "rounded inner transition into a horizontal cap and crisp outer point",
+        "innerVertex": "sharp",
+        "lowerOuterCorner": "controlled rounded transition"
+      },
+      "continuationStroke": {
+        "weight": "approximately 40 percent of the primary V stroke weight",
+        "width": "uniform",
+        "top": "rounded inner transition into a horizontal cap and crisp outer point",
+        "bottom": "180-degree rotational counterpart of the top"
+      },
+      "negativeSpace": "The two elements remain separate at every size."
+    }
+  },
+  "colours": {
+    "slate": "#6B5E52",
+    "ochre": "#C47B2E",
+    "paleOchre": "#FDF4E7",
+    "primaryMark": "#6B5E52",
+    "reversedMark": "#FDF4E7",
+    "reversedBackground": "#6B5E52"
+  },
+  "assets": {
+    "primary": "./volve-symbol.svg",
+    "reversed": "./volve-symbol-reversed.svg",
+    "appIcon": "./volve-symbol-on-slate.svg"
+  },
+  "usage": {
+    "minimumDigitalSizePx": 16,
+    "recommendedDigitalSizePx": 24,
+    "minimumClearSpace": "One continuation-stroke width on every side.",
+    "favicon": "Use the appIcon asset without an additional enclosure."
+  },
+  "restrictions": [
+    "Do not join the V and continuation stroke.",
+    "Do not close the negative-space channel.",
+    "Do not round the upper-left terminal of the V.",
+    "Do not replace the crisp terminal points with semicircular caps.",
+    "Do not add gradients, shadows, outlines or effects.",
+    "Do not stretch, skew or rotate the symbol."
+  ],
+  "website": {
+    "preferredFormat": "SVG",
+    "accessibleName": "Volve Solutions",
+    "linkedLogoAriaLabel": "Volve Solutions home"
+  }
+}
